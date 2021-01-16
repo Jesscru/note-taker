@@ -12,6 +12,7 @@
   ## Installation
   
   To use this app, one may simply click the deployed link below to navigate to the site. 
+  https://git.heroku.com/evening-dusk-94636.git
   
   ## Usage 
   
