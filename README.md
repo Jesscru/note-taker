@@ -11,7 +11,10 @@
   
   ## Installation
   
-  To use this app, one may simply click the deployed link below to navigate to the site. 
+  To use this app, one may simply click the deployed link below to navigate to the site. Upon landing on the site, the user will see the following:
+  ![landing page screenshot](./public/assets/images/landing-page.png)
+  ![note-taking page screenshot](./public/assets/images/notes-page.png)
+
   https://git.heroku.com/evening-dusk-94636.git
   
   ## Usage 
