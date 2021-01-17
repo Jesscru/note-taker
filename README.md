@@ -19,7 +19,7 @@
   
   ## Usage 
   
-  One may use this note-taking app for any number of reasons; however, it is probably best used for short, reminder-style notes. 
+  One may use this note-taking app for any number of reasons; however, it is probably best used for short, reminder-style notes. To use it, the user just types the title and joining message into the input fields provided and clicks the save icon in the top right corner. When and if the user would like to delete a note, they can click the appropriate "x" icon to the right of the desired note. 
   
   ## License
   
