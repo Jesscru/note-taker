@@ -11,13 +11,11 @@
   
   ## Installation
   
-  No installation is necessary to use this app. One may simply follow this link:   https://git.heroku.com/evening-dusk-94636.git
+  No installation is necessary to use this app. One may simply follow this link: https://evening-dusk-94636.herokuapp.com/
   Upon landing on the site, the user will see the following:
   
-  ![landing page screenshot](./public/assets/images/landing-page.png)
-  
-  ![note-taking page screenshot](./public/assets/images/notes-page.png)
-
+  ![Note taker function gif](./public/assets/images/note-taker.gif)
+ 
   
   ## Usage 
   
