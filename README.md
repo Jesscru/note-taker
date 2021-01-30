@@ -11,15 +11,17 @@
   
   ## Installation
   
-  To use this app, one may simply click the deployed link below to navigate to the site. Upon landing on the site, the user will see the following:
+  No installation is necessary to use this app. One may simply follow this link:   https://git.heroku.com/evening-dusk-94636.git
+  Upon landing on the site, the user will see the following:
+  
   ![landing page screenshot](./public/assets/images/landing-page.png)
+  
   ![note-taking page screenshot](./public/assets/images/notes-page.png)
 
-  https://git.heroku.com/evening-dusk-94636.git
   
   ## Usage 
   
-  One may use this note-taking app for any number of reasons; however, it is probably best used for short, reminder-style notes. To use it, the user just types the title and joining message into the input fields provided and clicks the save icon in the top right corner. When and if the user would like to delete a note, they can click the appropriate "x" icon to the right of the desired note. 
+  One may use this note-taking app for any number of reasons; however, it is probably best used for short, reminder-style notes. To use it, the user just types     the title and joining message into the input fields provided and clicks the save icon in the top right corner. When and if the user would like to delete a      note, they can click the appropriate "x" icon to the right of the desired note. 
   
   ## License
   
@@ -27,7 +29,7 @@
   
   ## Contributing
   
-  If you would like to contribute to this project please feel free to reach me by my email provided below. 
+  If you would like to contribute to this project please feel free to reach me at the email provided below. 
   
   ## Questions 
   
